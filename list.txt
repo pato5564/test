@@ -8,16 +8,16 @@
 # Domain Count: 1150
 # ======================================================================================================
 
-127.0.0.1	emisora.cl
-127.0.0.1	radiosonline.cl
-127.0.0.1	myradioonline.cl
-127.0.0.1	radios-chilenas.com
-127.0.0.1	radiosdechile.online
-127.0.0.1	open.spotify.com
-127.0.0.1	spotify.com
-127.0.0.1	music.apple.com
-127.0.0.1	deezer.com
-127.0.0.1	jango.com
+emisora.cl
+radiosonline.cl
+myradioonline.cl
+radios-chilenas.com
+radiosdechile.online
+open.spotify.com
+spotify.com
+music.apple.com
+deezer.com
+jango.com
 127.0.0.1	es.jango.com
 127.0.0.1	music.youtube.com
 127.0.0.1	tidal.com
