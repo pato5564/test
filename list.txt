@@ -1,23 +1,22 @@
 # Title: lista bloqueo TI HBSJO
-# Description: bloqueo dmominios no autorizados
+# Description: Pi-Hole bloqueo dominios no autorizados
 # Author: TI HBSJO
 # License: GNU General Public License v3.0
 # Home: https://soporte.hospitalosorno.cl
 # Updated: 30 May 2023
 # LatestVersion 1.0
-# Domain Count: 1150
 # ======================================================================================================
 
-emisora.cl
-radiosonline.cl
-myradioonline.cl
-radios-chilenas.com
-radiosdechile.online
-open.spotify.com
-spotify.com
-music.apple.com
-deezer.com
-jango.com
+127.0.0.1 emisora.cl
+127.0.0.1 radiosonline.cl
+127.0.0.1 myradioonline.cl
+127.0.0.1 radios-chilenas.com
+127.0.0.1 radiosdechile.online
+127.0.0.1 open.spotify.com
+127.0.0.1 spotify.com
+127.0.0.1 music.apple.com
+127.0.0.1 deezer.com
+127.0.0.1 jango.com
 127.0.0.1	es.jango.com
 127.0.0.1	music.youtube.com
 127.0.0.1	tidal.com
@@ -88,12 +87,12 @@ jango.com
 127.0.0.1 g7.sendthisfile.com
 127.0.0.1 g6.sendthisfile.com
 127.0.0.1 g5.sendthisfile.com
-0.0.0.0	g4.sendthisfile.com
-0.0.0.0	g3.sendthisfile.com
-0.0.0.0	g2.sendthisfile.com
-0.0.0.0	g1.sendthisfile.com
-0.0.0.0	sendthisfile.com
-0.0.0.0	filemail.com
+127.0.0.1	g4.sendthisfile.com
+127.0.0.1	g3.sendthisfile.com
+127.0.0.1	g2.sendthisfile.com
+127.0.0.1	g1.sendthisfile.com
+127.0.0.1	sendthisfile.com
+127.0.0.1	filemail.com
 127.0.0.1	volafile.org
 127.0.0.1	toffeeshare.com
 127.0.0.1	drive.google.com
