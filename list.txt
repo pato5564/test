@@ -7,58 +7,108 @@
 # LatestVersion 1.0
 # ======================================================================================================
 
+127.0.0.1 www.emisora.cl
 127.0.0.1 emisora.cl
 127.0.0.1 radiosonline.cl
+127.0.0.1 www.radiosonline.cl
 127.0.0.1 myradioonline.cl
+127.0.0.1 www.myradioonline.cl
 127.0.0.1 radios-chilenas.com
+127.0.0.1 www.radios-chilenas.com
 127.0.0.1 radiosdechile.online
+127.0.0.1 www.radiosdechile.online
 127.0.0.1 open.spotify.com
+127.0.0.1 www.open.spotify.com
 127.0.0.1 spotify.com
+127.0.0.1 www.spotify.com
 127.0.0.1 music.apple.com
+127.0.0.1 www.music.apple.com
 127.0.0.1 deezer.com
+127.0.0.1 www.deezer.com
 127.0.0.1 jango.com
+127.0.0.1 www.jango.com
 127.0.0.1	es.jango.com
+127.0.0.1	www.es.jango.com
 127.0.0.1	music.youtube.com
+127.0.0.1	www.music.youtube.com
 127.0.0.1	tidal.com
+127.0.0.1	www.tidal.com
 127.0.0.1	mixcloud.com
+127.0.0.1	www.mixcloud.com
 127.0.0.1	soundcloud.com
+127.0.0.1	www.soundcloud.com
 127.0.0.1	tunein.com
+127.0.0.1	www.tunein.com
 127.0.0.1	bandcamp.com
+127.0.0.1	www.bandcamp.com
 127.0.0.1	idagio.com
+127.0.0.1	www.idagio.com
 127.0.0.1	artlist.io
+127.0.0.1	www.artlist.io
 127.0.0.1	last.fm
+127.0.0.1	www.last.fm
 127.0.0.1	pandora.com
+127.0.0.1	www.pandora.com
 127.0.0.1	zapping.com
+127.0.0.1	www.zapping.com
 127.0.0.1	cl.estadio.com
+127.0.0.1	www.cl.estadio.com
 127.0.0.1	tntsports.cl
+127.0.0.1	www.tntsports.cl
 127.0.0.1	m.livesoccertv.com
+127.0.0.1	www.m.livesoccertv.com
 127.0.0.1	livesoccertv.com
+127.0.0.1	www.livesoccertv.com
 127.0.0.1	directvgo.com
+127.0.0.1	www.directvgo.com
 127.0.0.1	foxsport.com
+127.0.0.1	www.foxsport.com
 127.0.0.1	foxsport.com.mx
+127.0.0.1	www.foxsport.com.mx
 127.0.0.1	mubi.com
+127.0.0.1	www.mubi.com
 127.0.0.1	quibit.tv
+127.0.0.1	www.quibit.tv
 127.0.0.1	acorm.tv
+127.0.0.1	www.acorm.tv
 127.0.0.1	starplay.com
-127.0.0.1	starplus.com
+127.0.0.1	www.starplay.com
 127.0.0.1	primevideo.com
+127.0.0.1	www.primevideo.com
 127.0.0.1	netflik.com
+127.0.0.1	www.netflik.com
 127.0.0.1	disneyplus.com
+127.0.0.1	www.disneyplus.com
 127.0.0.1	disneylatino.com
+127.0.0.1	www.disneylatino.com
 127.0.0.1	hbomax.com
+127.0.0.1	www.hbomax.com
 127.0.0.1	max.com
+127.0.0.1	www.max.com
 127.0.0.1	paramount.com
+127.0.0.1	www.paramount.com
 127.0.0.1	paramountplus.com
+127.0.0.1	www.paramountplus.com
 127.0.0.1	tv.apple.com
+127.0.0.1	www.tv.apple.com
 127.0.0.1	movistartv.cl
-127.0.0.1	mplay.movistra.cl
+127.0.0.1	www.movistartv.cl
+127.0.0.1	mplay.movistar.cl
+127.0.0.1	www.mplay.movistar.cl
 127.0.0.1	legalmentegratis.com
+127.0.0.1	www.legalmentegratis.com
 127.0.0.1	rakuten.tv
+127.0.0.1	www.rakuten.tv
 127.0.0.1	rtve.es
+127.0.0.1	www.rtve.es
 127.0.0.1	pluto.tv
+127.0.0.1	www.pluto.tv
 127.0.0.1	tivify.es
+127.0.0.1	www.tivify.es
 127.0.0.1	efilm.online
+127.0.0.1	www.efilm.online
 127.0.0.1	w5.cinecalidad.vet
+127.0.0.1	www.w5.cinecalidad.vet
 127.0.0.1	w4.cinecalidad.vet
 127.0.0.1	w3.cinecalidad.vet
 127.0.0.1	w2.cinecalidad.vet
@@ -99,3 +149,48 @@
 127.0.0.1	transfernow.net
 127.0.0.1	dropbox.com
 127.0.0.1	wormhole.app
+www.elitegoles.com
+elitegoles.com
+elitegoltv.me
+www.elitegoltv.me
+veopartidos.online
+www.veopartidos.online
+www.elitegol.tv
+elitegol.tv
+www.elitegoltv.org
+elitegoltv.org
+www.elitegol.global
+elitegol.global
+redstreamsport.online
+www.pirlotvhd.online/
+www.pirlotvhd.net/
+www.pirlotv.es/
+www.pirlotvonline.net
+futbolpirlotv.net
+www.intergoles.me
+www.intergoles.net
+www.mamahd.org
+mamahd.org
+www.rojadirectaenvivo.es
+wolftm.in
+owl-servers3.ovh
+wolftm.in
+digitalplatinum.in
+pandorapremium.ddns.net
+iptvesp.eu
+iptvadur.eu
+hightquality.org
+www.sansat.net
+qualitypremium.sytes.net
+iptvld.paranosotros.ru
+gtmservices.org
+digitalservices.tel
+iptvesp.eu
+landiptv.live
+qualitypremium.sytes.net
+movspain.com
+www.movspain.com
+c14.xtra7.gq
+playlist.topcam.me
+cdndaily0.azureedge.net
+azureedge.net
