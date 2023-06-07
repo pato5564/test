@@ -1,9 +1,9 @@
 # Title: lista bloqueo TI HBSJO
 # Description: Pi-Hole bloqueo dominios no autorizados
 # Author: TI HBSJO
-# License: GNU General Public License v3.0
+# License:  Public 
 # Home: https://soporte.hospitalosorno.cl
-# Updated: 30 May 2023
+# Updated: 06-06-2023
 # LatestVersion 1.0
 # ======================================================================================================
 
@@ -149,48 +149,48 @@
 127.0.0.1	transfernow.net
 127.0.0.1	dropbox.com
 127.0.0.1	wormhole.app
-www.elitegoles.com
-elitegoles.com
-elitegoltv.me
-www.elitegoltv.me
-veopartidos.online
-www.veopartidos.online
-www.elitegol.tv
-elitegol.tv
-www.elitegoltv.org
-elitegoltv.org
-www.elitegol.global
-elitegol.global
-redstreamsport.online
-www.pirlotvhd.online/
-www.pirlotvhd.net/
-www.pirlotv.es/
-www.pirlotvonline.net
-futbolpirlotv.net
-www.intergoles.me
-www.intergoles.net
-www.mamahd.org
-mamahd.org
-www.rojadirectaenvivo.es
-wolftm.in
-owl-servers3.ovh
-wolftm.in
-digitalplatinum.in
-pandorapremium.ddns.net
-iptvesp.eu
-iptvadur.eu
-hightquality.org
-www.sansat.net
-qualitypremium.sytes.net
-iptvld.paranosotros.ru
-gtmservices.org
-digitalservices.tel
-iptvesp.eu
-landiptv.live
-qualitypremium.sytes.net
-movspain.com
-www.movspain.com
-c14.xtra7.gq
-playlist.topcam.me
-cdndaily0.azureedge.net
-azureedge.net
+127.0.0.1	www.elitegoles.com
+127.0.0.1	elitegoles.com
+127.0.0.1	elitegoltv.me
+127.0.0.1	www.elitegoltv.me
+127.0.0.1	veopartidos.online
+127.0.0.1	www.veopartidos.online
+127.0.0.1	www.elitegol.tv
+127.0.0.1	elitegol.tv
+127.0.0.1	www.elitegoltv.org
+127.0.0.1	elitegoltv.org
+127.0.0.1	www.elitegol.global
+127.0.0.1	elitegol.global
+127.0.0.1	redstreamsport.online
+127.0.0.1	www.pirlotvhd.online
+127.0.0.1	www.pirlotvhd.net
+127.0.0.1	www.pirlotv.es
+127.0.0.1	www.pirlotvonline.net
+127.0.0.1	futbolpirlotv.net
+127.0.0.1	www.intergoles.me
+127.0.0.1	www.intergoles.net
+127.0.0.1	www.mamahd.org
+127.0.0.1	mamahd.org
+127.0.0.1	www.rojadirectaenvivo.es
+127.0.0.1	wolftm.in
+127.0.0.1	owl-servers3.ovh
+127.0.0.1	wolftm.in
+127.0.0.1	digitalplatinum.in
+127.0.0.1	pandorapremium.ddns.net
+127.0.0.1	iptvesp.eu
+127.0.0.1	iptvadur.eu
+127.0.0.1	hightquality.org
+127.0.0.1	www.sansat.net
+127.0.0.1	qualitypremium.sytes.net
+127.0.0.1	iptvld.paranosotros.ru
+127.0.0.1	gtmservices.org
+127.0.0.1	digitalservices.tel
+127.0.0.1	iptvesp.eu
+127.0.0.1	landiptv.live
+127.0.0.1	qualitypremium.sytes.net
+127.0.0.1	movspain.com
+127.0.0.1	www.movspain.com
+127.0.0.1	c14.xtra7.gq
+127.0.0.1	playlist.topcam.me
+127.0.0.1	cdndaily0.azureedge.net
+127.0.0.1	azureedge.net
