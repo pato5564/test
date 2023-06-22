@@ -114,6 +114,8 @@
 127.0.0.1	cuevana.mov
 127.0.0.1	cuevana2.mov
 127.0.0.1	cuevana3.mov
+cntvplay.cl
+soypremium.cl
 127.0.0.1	cuevana.pro
 127.0.0.1 gnula.nu
 127.0.0.1 hdfull.pm
@@ -348,15 +350,25 @@ www.brookchile.com
 #
 #_____ tiendas_____
 #
-*.paris.cl
+www.paris.cl
+paris.cl
 
 #
 #_______otros_____
 #
 streaming.ecn.cl
-*.whatsapp.com
-*.whasapp.net
-*.symcb.com
+www.whatsapp.com
+whasapp.com
+www.whasapp.net
+whasapp.net
+g.whasapp.net
+mng-fna.whasapp.net
+static.whasapp.net
+web.whasapp.net
+s.symcb.com
 *.rudo.video
 *.video
 *.pokeyplay.com
+sdn.solitar.io
+solitar.io
+(\.|^)shein\com$
