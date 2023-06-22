@@ -3,7 +3,7 @@
 # Author: TI HBSJO
 # License:  Public 
 # Home: https://soporte.hospitalosorno.cl
-# Updated: 06-06-2023
+# Updated: 22-06-2023
 # LatestVersion 1.0
 # ======================================================================================================
 
@@ -345,3 +345,18 @@ www.brooksrunningchilecl.com
 www.zapatillasbrooks-chile.com
 www.chilebrooks.com
 www.brookchile.com
+#
+#_____ tiendas_____
+#
+*.paris.cl
+
+#
+#_______otros_____
+#
+streaming.ecn.cl
+*.whatsapp.com
+*.whasapp.net
+*.symcb.com
+*.rudo.video
+*.video
+*.pokeyplay.com
