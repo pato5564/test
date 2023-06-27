@@ -8,6 +8,8 @@
 # ======================================================================================================
 
 127.0.0.1 www.emisora.cl
+127.0.0.1 onlineradiobox.com
+127.0.0.1 www.onlineradiobox.com
 127.0.0.1 emisora.cl
 127.0.0.1 radiosonline.cl
 127.0.0.1 www.radiosonline.cl
@@ -352,7 +354,7 @@ www.brookchile.com
 #
 www.paris.cl
 paris.cl
-
+shein.com
 #
 #_______otros_____
 #
@@ -374,4 +376,6 @@ pokeyplay.com
 consultorio.pokeyplay.com
 sdn.solitar.io
 solitar.io
-(\.|^)shein\com$
+fp2e7a.wpc.phicdn.net
+x1.c.lencr.org
+shavar.prod.mozaws.net
