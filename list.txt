@@ -3,8 +3,8 @@
 # Author: TI HBSJO
 # License:  Public 
 # Home: https://soporte.hospitalosorno.cl
-# Updated: 22-06-2023
-# LatestVersion 1.0
+# Updated: 27-06-2023
+# LatestVersion 1.5
 # ======================================================================================================
 
 127.0.0.1 www.emisora.cl
@@ -194,6 +194,8 @@ soypremium.cl
 127.0.0.1	playlist.topcam.me
 127.0.0.1	cdndaily0.azureedge.net
 127.0.0.1	azureedge.net
+juicedev.me
+ext.juicedev.me
 #
 #__________ Tik Tok ________
 #
@@ -379,3 +381,5 @@ solitar.io
 fp2e7a.wpc.phicdn.net
 x1.c.lencr.org
 shavar.prod.mozaws.net
+faxfinder.net
+support.faxfinder.net
