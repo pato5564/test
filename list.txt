@@ -383,3 +383,8 @@ x1.c.lencr.org
 shavar.prod.mozaws.net
 faxfinder.net
 support.faxfinder.net
+macal.cl
+tlr.stripocdn.email
+stripocdn.email
+macal.ltacemlnd.com
+ltacemlnd.com
