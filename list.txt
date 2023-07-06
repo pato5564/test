@@ -298,7 +298,7 @@ audio4-fa.scdn.co
 global-dealer-ssl.spotify.com
 open.spotify.com
 login5.spotify.com
-i.scdn.co	spotify images
+i.scdn.co
 newjams-images.scdn.co
 dailymix-images.scdn.co
 lineup-images.scdn.co
