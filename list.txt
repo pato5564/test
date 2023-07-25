@@ -311,6 +311,35 @@ accounts.spotify.com
 #
 #_______ SCIRT ___
 #
+puntoitu-personas-empresas.ortyi.com  # 8FFR23-01461-01
+ortyi.com
+172.67.187.186
+bit.ly # 8FFR23-01462-01
+tasa-bancoestado.web.app # 8FFR23-01462-01
+web.app
+199.36.158.100
+abcdinchile.myshopify.com # 8FFR23-01463-01
+myshopify.com 
+23.227.38.74
+zapatocollky.shop # 8FFR23-01464-01
+199.21.150.26
+cl-postcorreeos.com # 8FFR23-01465-01
+89.117.169.118
+clientes-life.fun # 8FFR23-01466-01
+104.21.53.200
+abcdinoficialtienda.myshopify.com # 8FFR23-01467-01
+onsntander.bio # 8FFR23-01468-01
+104.21.44.158
+banco.santander-cl.martinezlawaz.com # 8FPH23-00856-01
+martinezlawaz.com
+107.190.131.66
+lolocontac.com # 8FPH23-00857-01
+bandafongape.com # 8FPH23-00857-01
+64.37.50.234
+195.178.120.24 # 2CMV23-00426-01
+servidorarquivos.duckdns.org
+duckdns.org
+
 appitau.online
 ingreso-portalcllente-bdchile.cl.murillovp.com
 ingreso-portalcllente-bdchile.cl
