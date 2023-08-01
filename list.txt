@@ -3,7 +3,7 @@
 # Author: TI HBSJO
 # License:  Public 
 # Home: https://soporte.hospitalosorno.cl
-# Updated: 19-07-2023
+# Updated: 31-07-2023
 # LatestVersion 1.5
 # ======================================================================================================
 #
@@ -339,6 +339,50 @@ bandafongape.com # 8FPH23-00857-01
 195.178.120.24 # 2CMV23-00426-01
 servidorarquivos.duckdns.org
 duckdns.org
+nhtomail.web.app # 8FFR23-01469-01
+199.36.158.100
+arthursestore.com #8FFR23-01470-01
+75.2.103.32
+abcdin-tienda.myshopify.com #8FFR23-01471-01
+myshopify.com
+lupioutdoor.mystrikingly.com # 8FFR23-01472-01
+mystrikingly.com
+saleoutlet.online
+mitarjetacencosud.dashboard-cl.sbs # 8FFR23-01473-01
+dashboard-cl.sbs
+104.21.7.81
+form.jotform.com # 8FFR23-01474-01
+jotform.com
+prsonasantnder.bio # 8FFR23-01475-01
+138.128.182.106
+yuamflihouse.com # 8FFR23-01476-01
+138.128.182.106
+web-bancoripley.pankouri.org # 8FFR23-01477-01
+pankouri.org
+192.185.114.103
+lwf.qzx.mybluehost.me # 8FFR23-01478-01
+mybluehost.me
+162.215.133.231
+firebasestorage.googleapis.com # 8FFH23-00858-01
+ec2-52-67-192-115.sa-east-1.compute.amazonaws.com # 8FFH23-00859-01
+itau.beneficios-puntos-iupp.com
+beneficios-puntos-iupp.com
+104.21.13.94
+plazo-banestado.web.app # 8FFH23-00860-01
+web.app
+199.36.158.100
+bql0epapf-xn--luuaryqv-xn--c1ac4bxc-xn_p1ai.translate.goog # 8FFH23-00861-01
+translate.goog
+hty1iiu-web-app.translate.goog
+74.125.201.132
+avengerpatitos.com # 8FFH23-00862-01
+pluscontrolpanel.com
+98.142.108.122
+xank.cf # 8FFH23-00863-01
+162.240.110.92
+
+
+
 
 appitau.online
 ingreso-portalcllente-bdchile.cl.murillovp.com
